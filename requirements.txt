@@ -1,0 +1,12 @@
+Flask==2.2.2
+Flask_AutoIndex==0.6.6
+matplotlib==3.6.2
+numpy==1.23.4
+protobuf==4.21.9
+requests==2.28.1
+scipy==1.9.3
+Werkzeug==2.2.2
+gunicorn==20.1.0
+google-cloud-speech==2.16.2
+pytest==7.2.0
+word2number==1.1
