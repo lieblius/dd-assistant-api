@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.imgur.com/9rTx9OH.png" width=300/></p>
 
-This repo contains API used in a project for an embedded security class where the objective was to create an embedded voice assistant with various defense mechanisms against attacks; specifically [this one](https://lightcommands.com/). Our idea was a voice assistant for ordering food on DoorDash. Below is the relevant excerpt from our [report](report.pdf).
+This repo contains an API used in a project for an embedded security class where the objective was to create an embedded voice assistant with various defense mechanisms against attacks; specifically [this one](https://lightcommands.com/). Our idea was a voice assistant for ordering food on DoorDash. This code pertains to the cloud server object in the figure above. Below is the relevant excerpt from our [report](report.pdf).
 
 ## Implementation Details
 
